@@ -1,6 +1,16 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: antiquewhite;
+    /*background-color: antiquewhite;*/
+
+    background-image: url(public/GettyImages-908189050.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+
+
 }
 
 .container {
@@ -20,10 +30,11 @@ h1 {
 
 input[type="text"] {
     width: 100%;
-    padding: 10px;
+    padding: 10px 0;
     margin: 10px 0;
     border: 1px solid #ccc;
     border-radius: 5px;
+
 }
 
 button {
