@@ -2,7 +2,7 @@
 
 I created a simple static weather application using HTML, CSS and Javascript
 
-![screenshot of the app] (.public/WeatherApp_Screenshot.png)
+![screenshot of the app](public/WeatherApp_Screenshot.png)
 
 ___
 
