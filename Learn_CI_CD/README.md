@@ -1,7 +1,8 @@
-# Static Weather App with CI/CD Pipeline
+# Weather App with CI/CD Pipeline
 
-I created a simple weather application using HTML, CSS and Javascript
+I created a simple static weather application using HTML, CSS and Javascript
 
+![screenshot of the app] (.public/WeatherApp_Screenshot.png)
 
 ___
 
